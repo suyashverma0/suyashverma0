@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#58a6ff;">Suyash Verma</span> 🚀</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Data+%26+Vision+👁️" alt="Typing SVG" />
-  font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Data+%26+Vision+👁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Data+%26+Vision+👁️" alt="Typing SVG" />
 </p>
 
 ---
@@ -84,8 +83,8 @@ I believe in learning by doing and building real-world AI solutions that make li
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://github.com/suyashverma0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suyashverma@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suyash-verma-65b678331.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suyashv560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
