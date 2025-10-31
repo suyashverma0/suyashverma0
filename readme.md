@@ -81,7 +81,7 @@ I enjoy building intelligent systems that make data speak and drive real-world d
   <a href="https://github.com/suyashverma0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/suyash-verma-65b678331
 " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suyashv560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:boyfact560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -99,6 +99,26 @@ I enjoy building intelligent systems that make data speak and drive real-world d
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
+
+## 🏆 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashverma0&show_icons=true&theme=radical&hide_border=false&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashverma0&layout=compact&theme=radical&hide_border=false&border_radius=15" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashverma0&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,pandas,numpy,sklearn,opencv,mysql,powerbi,anaconda,jupyter,seaborn" />
 </p>
 
 ---
