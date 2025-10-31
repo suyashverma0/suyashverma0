@@ -1,17 +1,19 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#58a6ff;">Suyash Verma</span> 🚀</h1>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Turning+Data+into+Intelligence+⚡;Building+AI+that+Matters+🚀" />
+</p>
 
 ---
 
 ### 🧠 About Me  
-💡 I’m **Suyash Verma**, a passionate **Data Scientist** who loves turning raw data into intelligent insights.  
-I specialize in **Machine Learning**, **Deep Learning**, and **Computer Vision**, with hands-on experience in **end-to-end AI model building** — from data collection to deployment.  
-I believe in learning by doing and building real-world AI solutions that make life smarter. 🌍  
+💡 I’m **Suyash Verma**, a passionate **Data Scientist** who loves converting raw data into meaningful insights.  
+I specialize in **Machine Learning**, **Deep Learning**, and **Computer Vision** using **Python**.  
+I enjoy building intelligent systems that make data speak and drive real-world decisions. 🌍  
 
 ---
 
-### 🔧 Tech Stack & Tools  
+### ⚙️ Tech Stack & Tools  
 
 #### 💻 **Programming Languages**
 <p align="left">
@@ -25,15 +27,10 @@ I believe in learning by doing and building real-world AI solutions that make li
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-38761D?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-#### 🧠 **Machine Learning & Data**
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-00B4D8?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 #### 📊 **Visualization & BI Tools**
@@ -47,7 +44,7 @@ I believe in learning by doing and building real-world AI solutions that make li
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### ⚙️ **Tools & Platforms**
+#### 🧩 **Tools & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -70,18 +67,19 @@ I believe in learning by doing and building real-world AI solutions that make li
 ---
 
 ### 🧩 My Strengths  
-- 🧠 Strong foundation in **Data Analysis, Machine Learning & Deep Learning**  
-- ⚙️ Experience in **Computer Vision (OpenCV)** and **Image Classification Models**  
-- 📈 Skilled at **EDA, Visualization, and Storytelling with Data**  
-- 💬 Great at explaining technical concepts simply  
-- 🌱 Always exploring new tools and AI innovations  
+- 🧠 Expertise in **Data Analysis, ML, DL, and EDA**  
+- 🧮 Experience in **Computer Vision (OpenCV)** and **TensorFlow/Keras**  
+- 📈 Strong skills in **Data Visualization** using Seaborn & Power BI  
+- ⚙️ Great understanding of **feature engineering & model optimization**  
+- 🌱 Always exploring new AI innovations and tools  
 
 ---
 
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://github.com/suyashverma0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/suyash-verma-65b678331/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suyash-verma-65b678331
+" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:suyashv560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -99,7 +97,7 @@ I believe in learning by doing and building real-world AI solutions that make li
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
