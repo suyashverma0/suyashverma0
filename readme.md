@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Turning+Data+into+Intelligence+⚡;Building+AI+that+Matters+🚀" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+AI+Solutions+with+Vision+%26+Data+🚀" />
+</p>
+
 
 ---
 
