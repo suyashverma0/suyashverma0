@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#58a6ff;">Suyash Verma</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Data+%26+Vision+👁️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Data+%26+Vision+👁️" alt="Typing SVG" />
+  font=Fira+Code&weight=600&pause=1000&color=00FFDD&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Building+Intelligent+Systems+with+Data+%26+Vision+👁️" alt="Typing SVG" />
 </p>
 
 ---
