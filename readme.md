@@ -84,23 +84,7 @@ I enjoy building intelligent systems that make data speak and drive real-world d
   <a href="mailto:boyfact560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashverma0&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashverma0&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashverma0&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
----
 
 ## 🏆 GitHub Stats & Achievements
 
@@ -113,6 +97,10 @@ I enjoy building intelligent systems that make data speak and drive real-world d
   <img src="https://github-profile-trophy.vercel.app/?username=suyashverma0&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 ## 💻 Languages & Tools
@@ -120,6 +108,10 @@ I enjoy building intelligent systems that make data speak and drive real-world d
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,pandas,numpy,sklearn,opencv,mysql,powerbi,anaconda,jupyter,seaborn" />
 </p>
+
+
+
+
 
 ---
 
