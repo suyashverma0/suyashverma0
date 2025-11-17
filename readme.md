@@ -64,6 +64,7 @@ I enjoy building intelligent systems that make data speak and drive real-world d
 | 🗑️ **Garbage Detection using ML & OpenCV** | Detects garbage in images using CNN + OpenCV; trained on Kaggle Garbage Classification Dataset. |
 | 😀 **Face & Smile Detection** | Real-time face, eye, and smile detection system using Haar cascades in OpenCV. |
 | 📊 **Automated EDA System** | Automatically analyzes datasets, visualizes distributions, and generates key statistical insights. |
+| 📚 **RAG-based AI Teaching System** | Converts videos to text using Whisper, creates embeddings using Ollama, and tells exactly where a topic appears in the video through a full RAG pipeline.|
 
 ---
 
