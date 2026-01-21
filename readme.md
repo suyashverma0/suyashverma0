@@ -4,26 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFDD&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+ML+%26+DL+Engineer;Python+Developer+%7C+AI+Enthusiast;Turning+Data+into+Intelligence+⚡;Building+AI+that+Matters+🚀" />
 </p>
 
-
 ---
 
-### 🧠 About Me  
+## 🧠 About Me  
 💡 I’m **Suyash Verma**, a passionate **Data Scientist** who loves converting raw data into meaningful insights.  
 I specialize in **Machine Learning**, **Deep Learning**, and **Computer Vision** using **Python**.  
 I enjoy building intelligent systems that make data speak and drive real-world decisions. 🌍  
 
 ---
 
-### ⚙️ Tech Stack & Tools  
+## ⚙️ Tech Stack & Tools  
 
-#### 💻 **Programming Languages**
+### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-#### 🧰 **Core Libraries**
+### 🧰 Core Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -34,18 +33,19 @@ I enjoy building intelligent systems that make data speak and drive real-world d
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-#### 📊 **Visualization & BI Tools**
+### 📊 Visualization & BI Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-#### 🗄️ **Databases**
+### 🗄️ Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🧩 **Tools & Platforms**
+### 🧩 Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,63 +56,63 @@ I enjoy building intelligent systems that make data speak and drive real-world d
 
 ---
 
-### 💼 Projects  
+## 💼 Projects  
 
 | 🔹 Project Name | 💡 Description |
 |-----------------|----------------|
-| 🏠 **House Price Prediction (ML)** | A regression-based model predicting house prices in Gurugram using advanced feature engineering and ML algorithms. |
-| 🗑️ **Garbage Detection using ML & OpenCV** | Detects garbage in images using CNN + OpenCV; trained on Kaggle Garbage Classification Dataset. |
-| 😀 **Face & Smile Detection** | Real-time face, eye, and smile detection system using Haar cascades in OpenCV. |
-| 📊 **Automated EDA System** | Automatically analyzes datasets, visualizes distributions, and generates key statistical insights. |
-| 📚 **RAG-based AI Teaching System** | Converts videos to text using Whisper, creates embeddings using Ollama, and tells exactly where a topic appears in the video through a full RAG pipeline.|
+| 🏠 **House Price Prediction (ML)** | Regression-based model predicting house prices in Gurugram using feature engineering & ML algorithms |
+| 🗑️ **Garbage Detection (ML + OpenCV)** | CNN-based garbage detection using Kaggle dataset |
+| 😀 **Face & Smile Detection** | Real-time detection using Haar Cascades (OpenCV) |
+| 📊 **Automated EDA System** | Auto analysis, visualization & statistical insights |
+| 📚 **RAG-based AI Teaching System** | Whisper + Ollama + embeddings to locate topics inside videos |
 
 ---
 
-### 🧩 My Strengths  
-- 🧠 Expertise in **Data Analysis, ML, DL, and EDA**  
-- 🧮 Experience in **Computer Vision (OpenCV)** and **TensorFlow/Keras**  
-- 📈 Strong skills in **Data Visualization** using Seaborn & Power BI  
-- ⚙️ Great understanding of **feature engineering & model optimization**  
-- 🌱 Always exploring new AI innovations and tools  
+## 🧩 My Strengths  
+- 📊 **Advanced Excel** (Pivot Tables, XLOOKUP, Power Query, Dashboards)  
+- 🧠 Data Analysis, Machine Learning & Deep Learning  
+- 🧮 Computer Vision using OpenCV  
+- 📈 Data Visualization with Excel, Seaborn & Power BI  
+- ⚙️ Feature Engineering & Model Optimization  
+- 🌱 Always learning new AI tools & technologies  
 
 ---
 
-### 🌍 Connect with Me  
+## 🌍 Connect with Me  
 <p align="center">
-  <a href="https://github.com/suyashverma0" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/suyash-verma-65b678331
-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:suyashv560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/suyashverma0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/suyash-verma-65b678331" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:suyashv560@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-
+---
 
 ## 🏆 GitHub Stats & Achievements
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashverma0&show_icons=true&theme=radical&hide_border=false&border_radius=15" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashverma0&layout=compact&theme=radical&hide_border=false&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashverma0&show_icons=true&theme=radical&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashverma0&layout=compact&theme=radical&border_radius=15" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashverma0&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashverma0&theme=onedark&no-frame=true&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 💻 Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,pandas,numpy,sklearn,opencv,mysql,powerbi,anaconda,jupyter,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,tensorflow,pandas,numpy,sklearn,opencv,mysql,powerbi,anaconda,jupyter,seaborn,excel" />
 </p>
-
-
-
-
 
 ---
 
