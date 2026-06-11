@@ -7,8 +7,6 @@
 ---
 
 ## 🧠 About Me  
-## 🧠 About Me
-
 I'm **Suyash Verma**, a Machine Learning Engineer and Data Science enthusiast with a strong interest in building intelligent, data-driven solutions.
 
 My expertise includes **Machine Learning, Data Analysis, Deep Learning, Computer Vision, and MLOps**. I enjoy developing end-to-end machine learning applications—from data preprocessing and model development to API creation, containerization, and cloud deployment.
