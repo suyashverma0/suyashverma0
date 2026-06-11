@@ -7,9 +7,15 @@
 ---
 
 ## 🧠 About Me  
-💡 I’m **Suyash Verma**, a passionate **Data Scientist** who loves converting raw data into meaningful insights.  
-I specialize in **Machine Learning**, **Deep Learning**, and **Computer Vision** using **Python**.  
-I enjoy building intelligent systems that make data speak and drive real-world decisions. 🌍  
+## 🧠 About Me
+
+I'm **Suyash Verma**, a Machine Learning Engineer and Data Science enthusiast with a strong interest in building intelligent, data-driven solutions.
+
+My expertise includes **Machine Learning, Data Analysis, Deep Learning, Computer Vision, and MLOps**. I enjoy developing end-to-end machine learning applications—from data preprocessing and model development to API creation, containerization, and cloud deployment.
+
+Currently pursuing a Bachelor's degree in Data Science & Artificial Intelligence, I am continuously expanding my knowledge of scalable ML systems, cloud technologies, and production-ready AI solutions.
+
+I am passionate about leveraging data to solve real-world problems and creating impactful applications through technology.
 
 ---
 
