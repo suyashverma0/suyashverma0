@@ -59,18 +59,6 @@ I am passionate about leveraging data to solve real-world problems and creating 
 
 ---
 
-## 💼 Projects  
-
-| 🔹 Project Name | 💡 Description |
-|-----------------|----------------|
-| 🏠 **House Price Prediction (ML)** | Regression-based model predicting house prices in Gurugram using feature engineering & ML algorithms |
-| 🗑️ **Garbage Detection (ML + OpenCV)** | CNN-based garbage detection using Kaggle dataset |
-| 😀 **Face & Smile Detection** | Real-time detection using Haar Cascades (OpenCV) |
-| 📊 **Automated EDA System** | Auto analysis, visualization & statistical insights |
-| 📚 **RAG-based AI Teaching System** | Whisper + Ollama + embeddings to locate topics inside videos |
-
----
-
 ## 🧩 My Strengths  
 - 📊 **Advanced Excel** (Pivot Tables, XLOOKUP, Power Query, Dashboards)  
 - 🧠 Data Analysis, Machine Learning & Deep Learning  
@@ -94,23 +82,6 @@ I am passionate about leveraging data to solve real-world problems and creating 
   </a>
 </p>
 
----
-
-## 🏆 GitHub Stats & Achievements
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashverma0&show_icons=true&theme=radical&border_radius=15" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyashverma0&layout=compact&theme=radical&border_radius=15" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashverma0&theme=onedark&no-frame=true&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 💻 Languages & Tools
 <p align="center">
